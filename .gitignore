@@ -3,3 +3,6 @@ assets/*.css
 assets/*.js
 node_modules
 package-lock.json
+.idea
+.DS_Store
+
